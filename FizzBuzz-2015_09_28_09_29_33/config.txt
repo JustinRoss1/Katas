@@ -1,0 +1,7 @@
+# first entry always the master solution dll
+# second entry always the player vs solution name
+# third entry always the player vs solution dll name
+# directory structure must remain as MasterSolution, PlayerSolution
+Katarai.KataData.FizzBuzz.dll
+PlayerFizzBuzz.sln
+PlayerFizzBuzz.dll

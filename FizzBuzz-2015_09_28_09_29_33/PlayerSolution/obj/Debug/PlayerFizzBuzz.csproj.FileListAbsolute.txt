@@ -1,0 +1,10 @@
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\PlayerFizzBuzz.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\PlayerFizzBuzz.pdb
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\Engine.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\Katarai.FizzBuzz.Interfaces.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\nunit.framework.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\bin\Debug\nunit.framework.xml
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\obj\Debug\PlayerFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\obj\Debug\PlayerFizzBuzz.dll
+C:\Users\jared.CHILLI\AppData\Local\Katarai\FizzBuzz-2015_09_28_09_29_33\PlayerSolution\obj\Debug\PlayerFizzBuzz.pdb

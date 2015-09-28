@@ -1,0 +1,13 @@
+/*directory structure must remain as MasterSolution, PlayerSolution*/
+{
+"masterSolutionAssembly":"Katarai.KataData.FizzBuzz.dll",
+"playerSolutionName":"PlayerFizzBuzz.sln",
+"playerSolutionAssembly":"PlayerFizzBuzz.dll",
+"kataName":"FizzBuzz",
+"instructions":{
+		"header":"Welcome, let's start the kata. Please kindly note the following:",
+		"content":[
+			"Do not use test cases."
+		]
+	}
+}
